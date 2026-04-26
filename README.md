@@ -57,6 +57,7 @@ Me apasiona combinar la solidez de los sistemas legacy con las posibilidades del
 ## 🚀 Proyectos destacados
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=kevquevedo&repo=portfolio-quevedo&theme=tokyonight)](https://github.com/kevquevedo/portfolio-quevedo)
+[![Vois Designs](https://github-readme-stats.vercel.app/api/pin/?username=kevquevedo&repo=voisdesigns&theme=tokyonight)](https://github.com/kevquevedo/voisdesigns)
 
 ---
 
